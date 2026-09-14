@@ -8,7 +8,7 @@ For a step-by-step explanation of this project, visit:
 🔗 [**Read the Full Article Here**](https://blog.prodevopsguy.xyz/aws-with-terraform-and-jenkins-pipeline)  
 
 ---
-                                                      
+                                                                        
 ## 📌 **Project Overview**  
 
 This repository contains **Terraform** scripts to automate the provisioning of AWS infrastructure, including **VPC, Subnets, Security Groups, EC2 instances**, and Jenkins integration for **Infrastructure as Code (IaC)** deployment.  
