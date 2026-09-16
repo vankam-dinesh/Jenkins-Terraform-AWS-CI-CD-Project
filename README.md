@@ -1,6 +1,6 @@
 # 🚀 Jenkins-Terraform-AWS-Infra  
 
-![Jenkins-Terraform-AWS-Infra](https://imgur.com/KpAMkcF.png)                             
+![Jenkins-Terraform-AWS-Infra](https://imgur.com/KpAMkcF.png)                                           
 
 ## 📖 **Comprehensive Guide & Tutorial**  
 
