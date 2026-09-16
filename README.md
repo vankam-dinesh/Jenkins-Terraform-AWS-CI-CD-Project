@@ -2,7 +2,7 @@
 
 ![Jenkins-Terraform-AWS-Infra](https://imgur.com/KpAMkcF.png)                                           
 
-## 📖 **Comprehensive Guide & Tutorial**  
+## 📖 **Comprehensive Guide & Tutorial**                                              
 
 For a step-by-step explanation of this project, visit:  
 🔗 [**Read the Full Article Here**](https://blog.prodevopsguy.xyz/aws-with-terraform-and-jenkins-pipeline)  
